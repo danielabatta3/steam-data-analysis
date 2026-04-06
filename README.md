@@ -31,3 +31,9 @@ Python | Pandas | SQL | SQLite | Tableau Public
 - `notebooks/` — Limpieza y transformación de datos en Python
 - `sql/` — Consultas SQL con hallazgos clave
 - `data/` — Dataset limpio
+
+- ## Conclusión
+
+El catálogo de Steam es mayormente independiente: el género indie domina en volumen y diversidad. Sin embargo, más cantidad no garantiza mejor reputación — los datos muestran que desarrolladores con alta producción y baja calidad terminan destruyendo su propia marca.
+
+Para un publisher indie, el análisis sugiere: es mejor publicar pocos juegos con alta calidad que inundar el catálogo. El precio no es determinante de la percepción del jugador — lo que importa es la consistencia en la entrega.
