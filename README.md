@@ -29,6 +29,7 @@ Python | Pandas | SQL | SQLite | Tableau Public
 
 ## Estructura del proyecto
 - `notebooks/` — Limpieza y transformación de datos en Python
+[Ver notebook en nbviewer](https://nbviewer.org/github/danielabatta3/steam-data-analysis/blob/main/notebooks/01_limpieza_datos.ipynb)
 - `sql/` — Consultas SQL con hallazgos clave
 - `data/` — Dataset limpio
 
