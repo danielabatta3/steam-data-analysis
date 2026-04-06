@@ -14,7 +14,7 @@ y la evolución del mercado entre 1997 y 2019.
 ## Hallazgos principales
 
 - **Géneros dominantes:** Action;Indie lidera con 1.852 juegos. Indie aparece en los 5 géneros más frecuentes — el catálogo de Steam es mayormente producción independiente.
-- **Gratuitos vs Pagos:** Los juegos de pago tienen mejor valoración promedio (76.48% vs 72.88%). Más precio no significa peor reputación.
+- **Gratuitos vs Pagos:** Los juegos gratuitos y de pago tienen valoraciones casi idénticas (82.9% vs 82.4%). El precio no determina la calidad percibida por los jugadores.
 - **Evolución de calidad:** La valoración promedio bajó del 91% en 1997 al 69% en 2014, coincidiendo con la apertura masiva a desarrolladores indie.
 - **Cantidad ≠ Calidad:** Dexion Games tiene 45 juegos pero solo 29.2% de valoración positiva. Publicar mucho sin calidad destruye la reputación.
 
