@@ -39,7 +39,7 @@ Este proyecto analiza el ecosistema de Steam a través de un dataset de +27,000 
 - Gratuitos y pagos tienen valoraciones casi idénticas (~82%), 
   lo que sugiere que el precio no define la calidad percibida.
 - La calidad consistente parece ser el diferenciador real.
-=======
+
 ## 💡 Recomendación de Negocio
 - **Enfoque en Calidad:** La clave para el éxito en Steam no es el volumen de lanzamientos, sino la calidad consistente. La "saturación indie" hace que la reputación de marca (medida por reseñas) sea el activo más valioso.
 - **Estrategia de Diferenciación:** Para desarrolladores independientes, competir por precio es menos efectivo que apostar por un nicho específico de género.
