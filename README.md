@@ -35,6 +35,9 @@ Python | Pandas | SQL | SQLite | Tableau Public
 
 - ## Conclusión
 
-El catálogo de Steam es mayormente independiente: el género indie domina en volumen y diversidad. Sin embargo, más cantidad no garantiza mejor reputación — los datos muestran que desarrolladores con alta producción y baja calidad terminan destruyendo su propia marca.
-
-Para un publisher indie, el análisis sugiere: es mejor publicar pocos juegos con alta calidad que inundar el catálogo. El precio no es determinante de la percepción del jugador — lo que importa es la consistencia en la entrega.
+- El género indie domina el catálogo de Steam en volumen y diversidad.
+- Más juegos no implica mejor reputación: los desarrolladores más prolíficos 
+  no son necesariamente los mejor valorados.
+- Gratuitos y pagos tienen valoraciones casi idénticas (~82%), 
+  lo que sugiere que el precio no define la calidad percibida.
+- La calidad consistente parece ser el diferenciador real.
