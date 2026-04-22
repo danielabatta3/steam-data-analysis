@@ -31,7 +31,6 @@ Este proyecto analiza el ecosistema de Steam a través de un dataset de +27,000 
 - `sql/` — Consultas SQL con hallazgos clave
 - `data/` — Dataset limpio
 
-<<<<<<< HEAD
 - ## Conclusión
 
 - El género indie domina el catálogo de Steam en volumen y diversidad.
@@ -45,4 +44,3 @@ Este proyecto analiza el ecosistema de Steam a través de un dataset de +27,000 
 - **Enfoque en Calidad:** La clave para el éxito en Steam no es el volumen de lanzamientos, sino la calidad consistente. La "saturación indie" hace que la reputación de marca (medida por reseñas) sea el activo más valioso.
 - **Estrategia de Diferenciación:** Para desarrolladores independientes, competir por precio es menos efectivo que apostar por un nicho específico de género.
 - **Próximos pasos:** Para futuras iteraciones del análisis, sugiero incorporar datos de ventas (volumen monetario) para correlacionar la calidad con el éxito financiero directo.
->>>>>>> 2c555f482ad8b61ccc22f6d4940fda8fa65bc997
