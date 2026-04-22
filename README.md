@@ -1,7 +1,7 @@
 # 🎮 Steam Games Analysis — El Efecto Indie
 
 ## 📝 Resumen Ejecutivo
-Este proyecto analiza el ecosistema de Steam a través de un dataset de +27,000 títulos (1997-2019). El objetivo fue identificar correlaciones entre el modelo de monetización, la estrategia de lanzamiento de los desarrolladores y la satisfacción del usuario, proporcionando *insights* sobre qué define el éxito en la plataforma.
+Este proyecto analiza el ecosistema de Steam a través de un dataset de +27,000 títulos (1997-2019). El objetivo fue identificar correlaciones entre el modelo de monetización, la estrategia de lanzamiento de los desarrolladores y la satisfacción del usuario, proporcionando insights sobre qué define el éxito en la plataforma.
 
 ## ❓ Preguntas del análisis
 - ¿Qué géneros dominan el catálogo de Steam?
